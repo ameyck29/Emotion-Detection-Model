@@ -1,6 +1,6 @@
 # Emotion-Detection-Model
 Simple Emotion_Detection using Machine Learning
-(This Emotion Detection Model was built following an online deep learning tutorial.)
+(This Emotion Detection Model was built following an online machine learning tutorial.)
 
 To use our Emotion Detection Model
 1. Just clone or download and unzip our repository.
